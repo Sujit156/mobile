@@ -1,3 +1,5 @@
 Ram: 2GB and 
 Processor: Octa core 2.00 GHz
 Display: 5.7"
+Back-Camera: 13MP,2MP
+Font-Camera: 5MP
